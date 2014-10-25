@@ -6,7 +6,7 @@ public class student {
 
 	public String getStudent() {
 		
-		return this.Nume + ' ' + this.Prenume + "--" + this.Telefon;
+		return this.Nume + ' ' + this.Prenume + ' ' + this.Telefon;
 	}
 
 	public String getNume() {
