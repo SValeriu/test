@@ -22,7 +22,11 @@ public class main {
 
 		for (student s : listaStd) {
 			
+
 			System.out.println(s.getNume() + ' ' + s.getPrenume() + ' ' + s.getTelefon());
+
+			System.out.println(s.getStudent());
+
 		}
 	}
 }
