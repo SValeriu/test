@@ -14,7 +14,11 @@ public class main {
 		student std2 = new student();
 		std2.setStudent("Ionescu", "Gheroghe", "0231241536");
 		
+		student std3 = new student();
+		std3.setStudent("Georgescu", "Vasile", "1234567893");
+		
 		listaStd.add(std1);
 		listaStd.add(std2);
+		listaStd.add(std3);
 	}
 }
